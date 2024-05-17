@@ -3,7 +3,7 @@ Amazon Sentiment Analysis
 
 The repository contains the code for sentiment analysis (Dataset: https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews)
 
-Objective:\n
+Objective:
 1. Tokenizing the corpus
 2. remove the special characters
 3. Creating two versions of your dataset: (a) with stopwordsand (b) without stopwords
